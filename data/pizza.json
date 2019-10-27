@@ -1,0 +1,141 @@
+{
+	"menu": [
+		{
+			"kategori" : "pizza",
+			"nama" : "Meat Lover",
+			"deskripsi" : "Irisan sosis sapi, burger sapi, sosis ayam",
+			"harga" : 65900,
+			"gambar" : "Meat-lover.png"
+
+		},
+		{
+			"kategori" : "pizza",
+			"nama" : "Super Supreme",
+			"deskripsi" : "Daging ayam dan sapi asap, daging cincang, burger sapi, jamur, paprika merah dan paprika hijau",
+			"harga" : "65900",
+			"gambar" : "Super-Supreme.png"
+
+		},
+		{
+			"kategori" : "pizza",
+			"nama" : "Tuna Melt ",
+			"deskripsi" : "Irisan ikan tuna, daging dan saus mayonaise ",
+			"harga" : 65900,
+			"gambar" : "Tuna-Melt.png"
+
+		},
+		{
+			"kategori" : "pizza",
+			"nama" : "Meat Monsta",
+			"deskripsi" : "Irisan daging sapi, dengan size yang lebih besar",
+			"harga" : 65900,
+			"gambar" : "meat-monsta.png"
+
+		},
+		{
+			"kategori" : "pizza",
+			"nama" : "Veggie Garden",
+			"deskripsi" : "Daging sapi, ditambah dengan sayuran segar",
+			"harga" : 56900,
+			"gambar" : "veggie-garden.png"
+
+		},
+		{
+			"kategori" : "pizza",
+			"nama" : "Cheese Burger Pizza",
+			"deskripsi" : "Irisan sosis sapi, daging sapi, dan lelehan keju",
+			"harga" : 65900,
+			"gambar" : "cheese-burger-pizza.png"
+
+		},
+		{
+			"kategori" : "pasta",
+			"nama" : "Beef Spagetty",
+			"deskripsi" : "Pasta dengan irisan daging sapi yang lembut",
+			"harga" : 43000,
+			"gambar" : "Beef-spaghetty.png"
+
+		},
+		{
+			"kategori" : "pasta",
+			"nama" : "Blackpepper Pasta",
+			"deskripsi" : "pasta dengan perisa blackpepper yang pedas",
+			"harga" : 43200,
+			"gambar" : "Blackpepper-pasta.png"
+
+		},
+		{
+			"kategori" : "pasta",
+			"nama" : "Creamy Beef fettucine",
+			"deskripsi" : "Irisan sosis sapi, burger sapi, sosis ayam",
+			"harga" : 23900,
+			"gambar" : "beef-fetucine.png"
+
+		},
+		{
+			"kategori" : "pasta",
+			"nama" : "Spagetty Aglio alio",
+			"deskripsi" : "Irisan sosis sapi, burger sapi, sosis ayam",
+			"harga" : 32400,
+			"gambar" : "spagetty-aglio.png"
+
+		},
+		{
+			"kategori" : "nasi",
+			"nama" : "Beef Mushroom",
+			"deskripsi" : "Irisan sosis sapi, burger sapi, sosis ayam",
+			"harga" : 34700,
+			"gambar" : "beef-mushroom.png"
+
+		},
+		{
+			"kategori" : "nasi",
+			"nama" : "Blackpepper Rice",
+			"deskripsi" : "Irisan sosis sapi, burger sapi, sosis ayam",
+			"harga" : 32400,
+			"gambar" : "blackpaper-rice.png"
+
+		},
+		{
+			"kategori" : "nasi",
+			"nama" : "Thai Chicken Rice",
+			"deskripsi" : "Irisan sosis sapi, burger sapi, sosis ayam",
+			"harga" : 35500,
+			"gambar" : "thai-chickhen-rice.png"
+
+		},
+		{
+			"kategori" : "dessert",
+			"nama" : "Fruit Parfait",
+			"deskripsi" : "Minuman dengan jus buah yang beraneka ragam",
+			"harga" : 32000,
+			"gambar" : "fruit-farpait.png"
+
+		},
+		{
+			"kategori" : "dessert",
+			"nama" : "Ice Cream Banana",
+			"deskripsi" : "Ice cream rasa pisang dengan cream yang lembut",
+			"harga" : 23400,
+			"gambar" : "ice-cream-banana.png"
+
+		},
+		{
+			"kategori" : "dessert",
+			"nama" : "Neapolitan dream",
+			"deskripsi" : "Ice cream dengan berbagai campuran rasa",
+			"harga" : 24000,
+			"gambar" : "neapolitan-dream.png"
+
+		},
+		{
+			"kategori" : "dessert",
+			"nama" : "Triple Choco",
+			"deskripsi" : "Dengan tiga lapisan ice cream lembut rasa coklat",
+			"harga" : 23000,
+			"gambar" : "triple-choco.png"
+
+		}
+
+	]
+}
